@@ -7,11 +7,13 @@
 | [0006-zigzag-conversion](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0006-zigzag-conversion) |
 | [0387-first-unique-character-in-a-string](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gungunmishra63/DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/gungunmishra63/DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Array
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/gungunmishra63/DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/gungunmishra63/DSA-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
