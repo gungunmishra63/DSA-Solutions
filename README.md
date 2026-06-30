@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0006-zigzag-conversion) |
+| [0387-first-unique-character-in-a-string](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -42,4 +44,9 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
