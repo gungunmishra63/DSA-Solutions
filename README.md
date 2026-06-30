@@ -6,6 +6,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0006-zigzag-conversion) |
 | [0387-first-unique-character-in-a-string](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/gungunmishra63/DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/gungunmishra63/DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/gungunmishra63/DSA-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bucket Sort
 |  |
 | ------- |
